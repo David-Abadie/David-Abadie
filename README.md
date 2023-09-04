@@ -38,6 +38,6 @@
   ---
 
   <div>
-    <img align="center" src="https://user-images.githubusercontent.com/105942321/204950729-a2e0b19d-9133-4ded-a680-62f76d5248e7.gif" title="Java" alt="Java" width="300" height="200"/>&nbsp;
+    <img align="center" src="https://user-images.githubusercontent.com/105942321/204950729-a2e0b19d-9133-4ded-a680-62f76d5248e7.gif" title="Argentina" alt="Argentina" width="300" height="200"/>&nbsp;
   </div>
 
