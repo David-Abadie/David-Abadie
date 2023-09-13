@@ -5,13 +5,6 @@
 ![Snake animation](https://github.com/AndresPravata/AndresPravata/blob/main/github_snake.svg)
 
 <div align="center">  
-  
----
-  
-<a href="https://www.linkedin.com/in/david-abadie/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-4B49B9?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"> 
-
-</a>  
 
  ---
 
@@ -27,15 +20,29 @@
 
  ---
 
- ## Aprendiendo:
+ ## 💻 Aprendiendo:
 
-  <div>
-    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
-    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  </div>
+ 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+ 
 
-  ---
+---
+
+  
+## 🌐 Redes Sociales:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_davington_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/daviid_abadie/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/david-abadie/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@davidabadie) 
+
+---
+
+# 📊 Estadísticas:
+![](https://github-readme-stats.vercel.app/api?username=David-Abadie&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=David-Abadie&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Abadie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=David-Abadie&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
   <div>
     <img align="center" src="https://user-images.githubusercontent.com/105942321/204950729-a2e0b19d-9133-4ded-a680-62f76d5248e7.gif" title="Argentina" alt="Argentina" width="300" height="200"/>&nbsp;
